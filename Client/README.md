@@ -1,0 +1,1 @@
+On the client side, I may not separate the code extensively because I'm lazy. However, for the CRUD project with Prisma, I will attempt to simplify the code to make development easier and more efficient.
